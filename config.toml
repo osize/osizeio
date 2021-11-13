@@ -1,6 +1,6 @@
 baseURL = "https://osize.github.io/osizeio/"
 languageCode = "en-us"
-title = "osize.io"
+title = "osize Om"
 theme = "hugo-winston-theme-master"
 
 pygmentsCodeFences = true
