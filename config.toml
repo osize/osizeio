@@ -1,4 +1,4 @@
-baseURL = "https://osize.github.io/osizeio/"
+baseURL = "https://osize.io"
 languageCode = "en-us"
 title = "osize Om"
 theme = "hugo-winston-theme-master"
