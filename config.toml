@@ -16,7 +16,7 @@ paginate = 4
 [params]
   google_analytics_id = ""
   twitter_handle = "@osize"
-  showAuthorOnHomepage = false
+  showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addFrame = true
