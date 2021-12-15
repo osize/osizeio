@@ -1,5 +1,5 @@
 ---
-title: A different kind of challengeThe revolution will be complete when the language is perfect
+title: A different kind of challenge
 date: 2020-08-07
 description: 'Expect the type of challenges you face to get upgraded.'
 
