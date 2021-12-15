@@ -1,7 +1,7 @@
 ---
 title: A different kind of challenge
 date: 2020-08-07
-description: 'Expect the type of challenges you face to get upgraded.'
+description: 'Leaders in high-performing engineering organizations encounter new ‘types’ of problems as their scope increases. As your scope increases the types of challenges requiring your attention get upgraded. Not only do decision-making appear to get harder, but these challenges also seem to have no clear or easily verifiable solutions. Oftentimes your only hope is to choose the less wrong solution.'
 
 ---
 
